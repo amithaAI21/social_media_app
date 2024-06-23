@@ -1,0 +1,17 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+.env
+
+# Ignore any existing builds
+build/
+dist/
+
+# Ignore Django database
+*.sqlite3
+
+# Ignore .env files
+.env
